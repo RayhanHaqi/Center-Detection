@@ -1,6 +1,6 @@
 # Center-Detection
 
-line 6 = video capture dari webcam\t
+line 6 = video capture dari webcam
 line 7-14 = buat window berisi trackbar untuk mengatur range warna benda yang ingin dideteksi
 line 17 = frame dari video capture
 line 18 = menyimpan nilai koordinat titik tengah frame(line 17) untuk digunakan nanti
